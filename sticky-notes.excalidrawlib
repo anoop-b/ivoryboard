@@ -1,0 +1,80 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://app.excalidraw.com",
+  "libraryItems": [
+    {
+      "id": "TpnF5hK_qLYO0Yalak4Bu",
+      "status": "published",
+      "elements": [
+        {
+          "type": "rectangle",
+          "version": 396,
+          "versionNonce": 1642279137,
+          "isDeleted": false,
+          "id": "79rDuzu4BYi_9npE1Ak4Y",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 3477.0162595803326,
+          "y": 350.33384458124897,
+          "strokeColor": "#000000",
+          "backgroundColor": "#fab005",
+          "width": 102,
+          "height": 90,
+          "seed": 419588623,
+          "groupIds": [],
+          "roundness": null,
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "1qh442TL8BVgyI9FAm_sq"
+            }
+          ],
+          "updated": 1675326677387,
+          "link": null,
+          "locked": false
+        },
+        {
+          "type": "text",
+          "version": 394,
+          "versionNonce": 97356207,
+          "isDeleted": false,
+          "id": "1qh442TL8BVgyI9FAm_sq",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 3504.0162595803326,
+          "y": 384.83384458124897,
+          "strokeColor": "#000000",
+          "backgroundColor": "#fab005",
+          "width": 48,
+          "height": 21,
+          "seed": 1044136545,
+          "groupIds": [],
+          "roundness": null,
+          "boundElements": null,
+          "updated": 1675326677387,
+          "link": null,
+          "locked": false,
+          "fontSize": 16,
+          "fontFamily": 1,
+          "text": "NOTE",
+          "baseline": 15,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "79rDuzu4BYi_9npE1Ak4Y",
+          "originalText": "NOTE"
+        }
+      ],
+      "created": 1675326682179,
+      "name": "sticky-yellow"
+    }
+  ]
+}
