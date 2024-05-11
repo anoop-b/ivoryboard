@@ -26,17 +26,11 @@
   </ol>
 </details>
 
-
-
 ## About The Project
 
 ![IvoryBoard][product-screenshot]
 
 Instead of the usual websocket based backends, this project aims to leverage the existing feature sets make available by NATS (Message broker) which can be compared to KAFKA or Rabbit MQ which also supports persistance, message ordering and Key value storage including object storage.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -77,9 +71,6 @@ To get a local copy up and running follow these simple steps.
    bun run dev
    ```
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Usage
 
 Enter a roomname to initiate the a whiteboard session or enter an exisiting whiteboard name to join the session.
@@ -90,9 +81,6 @@ Click on sync to begin syncing with NATS
 
 * [NATS WS](https://github.com/nats-io/nats.ws)
 * [Excalidraw](https://github.com/excalidraw/excalidraw)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
